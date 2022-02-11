@@ -4,6 +4,7 @@ February workshop
 Type your name down here, one per line:
 Albu Alex
 Emilia
+Corina was here
 Alin Orian
 Tudor Tise
 Andrei
@@ -15,6 +16,11 @@ Bondea Iur
 
 
 
+
+
+
+
+```
 
 
 --- But above this line :)
