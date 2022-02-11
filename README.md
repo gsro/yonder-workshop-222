@@ -13,6 +13,6 @@ Alexandra
 Bondea Iur
 Tudor Sava
 Crainic Paula
-Gabi Suciu
+
 Stoia Diana
 --- But above this line :)
